@@ -114,7 +114,7 @@ After you linking the files in `index.html` page, you should be able to see the 
 
 
 
-### Iteration 2: Plan your game
+### Iteration 2: Plan your game 
 
 In this iteration, you will work on the game logic. You can see this part, like defining the methods that will take care of the game logic. No visible result will be shown just yet, and we will make sure everything works properly just by printing everything in the console.
 
